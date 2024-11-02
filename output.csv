@@ -1,0 +1,1036 @@
+Country Pair,Distance (km)
+"('Ancona', 'Andria')",349.30401144305745
+"('Ancona', 'Bari')",391.0418681947875
+"('Ancona', 'Bergamo')",383.0204391314121
+"('Ancona', 'Bologna')",199.89962990855176
+"('Ancona', 'Bolzano')",364.0447808729763
+"('Ancona', 'Brescia')",338.8096401206489
+"('Ancona', 'Cagliari')",609.696280667211
+"('Ancona', 'Catania')",690.431902252931
+"('Ancona', 'Ferrara')",204.4253666122213
+"('Ancona', 'Florence')",183.29551097355267
+"('Ancona', 'Foggia')",290.4028573916701
+"('Ancona', 'Forlì')",136.70372473443274
+"('Ancona', 'Genoa')",377.57973448944483
+"('Ancona', 'Giugliano in Campania')",301.99049212290043
+"('Ancona', 'Latina')",241.85490798374872
+"('Ancona', 'Leghorn')",258.5284939080245
+"('Ancona', 'Messina')",625.0755286998198
+"('Ancona', 'Milan')",401.9399754108604
+"('Ancona', 'Modena')",237.16017652663953
+"('Ancona', 'Monza')",401.4539129529872
+"('Ancona', 'Naples')",312.00387878900796
+"('Ancona', 'Novara')",438.9328915074273
+"('Ancona', 'Padua')",239.268808375456
+"('Ancona', 'Palermo')",608.6754823442737
+"('Ancona', 'Parma')",287.5153079129395
+"('Ancona', 'Perugia')",105.17159317964676
+"('Ancona', 'Pescara')",139.23847120123253
+"('Ancona', 'Piacenza')",345.1318096169963
+"('Ancona', 'Prato')",196.77126979341847
+"('Ancona', 'Ravenna')",137.84822902835992
+"('Ancona', 'Reggio di Calabria')",635.9878049331178
+"('Ancona', ""Reggio nell'Emilia"")",260.6010504730683
+"('Ancona', 'Rimini')",90.5967461797061
+"('Ancona', 'Rome')",206.84991190021685
+"('Ancona', 'Salerno')",340.89891640285555
+"('Ancona', 'Sassari')",517.7896360136997
+"('Ancona', 'Syracuse')",740.827430586168
+"('Ancona', 'Taranto')",464.644920175352
+"('Ancona', 'Terni')",133.72990381295133
+"('Ancona', 'Trento')",333.6778775502446
+"('Ancona', 'Trieste')",228.81018687566106
+"('Ancona', 'Turin')",492.26202582195253
+"('Ancona', 'Venice')",223.61470849462455
+"('Ancona', 'Verona')",285.6748171185827
+"('Ancona', 'Vicenza')",266.79616501220914
+"('Andria', 'Bari')",50.17877214765558
+"('Andria', 'Bergamo')",730.0237850907538
+"('Andria', 'Bologna')",543.4917488918168
+"('Andria', 'Bolzano')",707.1776024837214
+"('Andria', 'Brescia')",686.8077470856149
+"('Andria', 'Cagliari')",651.1407547224514
+"('Andria', 'Catania')",427.0274354510594
+"('Andria', 'Ferrara')",553.2532899024812
+"('Andria', 'Florence')",502.3652519233446
+"('Andria', 'Foggia')",67.42173103569236
+"('Andria', 'Forlì')",481.59954070805725
+"('Andria', 'Genoa')",698.018461099247
+"('Andria', 'Giugliano in Campania')",179.58271106771886
+"('Andria', 'Latina')",285.7679383414054
+"('Andria', 'Leghorn')",556.305610992239
+"('Andria', 'Messina')",343.4377397646295
+"('Andria', 'Milan')",744.5624698133303
+"('Andria', 'Modena')",579.8155034866005
+"('Andria', 'Monza')",745.7603201187994
+"('Andria', 'Naples')",175.00968691893462
+"('Andria', 'Novara')",778.2858149048168
+"('Andria', 'Padua')",586.4891565138992
+"('Andria', 'Palermo')",427.05127925332584
+"('Andria', 'Parma')",628.1859021971728
+"('Andria', 'Perugia')",383.93534485138395
+"('Andria', 'Pescara')",220.22775827053866
+"('Andria', 'Piacenza')",685.3057625337847
+"('Andria', 'Prato')",519.1231633228908
+"('Andria', 'Ravenna')",486.58575970751895
+"('Andria', 'Reggio di Calabria')",350.7307984227933
+"('Andria', ""Reggio nell'Emilia"")",601.957368717735
+"('Andria', 'Rimini')",437.9698417082954
+"('Andria', 'Rome')",324.5143331637854
+"('Andria', 'Salerno')",141.7983859261124
+"('Andria', 'Sassari')",652.7085463905261
+"('Andria', 'Syracuse')",469.8464700022437
+"('Andria', 'Taranto')",115.55574212919072
+"('Andria', 'Terni')",336.6859231661386
+"('Andria', 'Trento')",681.0783152080526
+"('Andria', 'Trieste')",531.6847850434327
+"('Andria', 'Turin')",819.9143490063034
+"('Andria', 'Venice')",566.2961559636149
+"('Andria', 'Verona')",634.9331047473221
+"('Andria', 'Vicenza')",614.9590045054626
+"('Bari', 'Bergamo')",773.3913885654817
+"('Bari', 'Bologna')",587.607974318156
+"('Bari', 'Bolzano')",744.291964208056
+"('Bari', 'Brescia')",729.6442183127813
+"('Bari', 'Cagliari')",694.3807941827467
+"('Bari', 'Catania')",430.50090746323104
+"('Bari', 'Ferrara')",595.459850821265
+"('Bari', 'Florence')",549.1814296642967
+"('Bari', 'Foggia')",117.19426014123634
+"('Bari', 'Forlì')",525.1961451400969
+"('Bari', 'Genoa')",745.6263172515705
+"('Bari', 'Giugliano in Campania')",226.37341401152088
+"('Bari', 'Latina')",335.5884558371456
+"('Bari', 'Leghorn')",604.7677561004396
+"('Bari', 'Messina')",344.46007624757436
+"('Bari', 'Milan')",789.3257157406142
+"('Bari', 'Modena')",624.2442211456378
+"('Bari', 'Monza')",790.0866613485127
+"('Bari', 'Naples')",220.8373877458927
+"('Bari', 'Novara')",823.7873091864019
+"('Bari', 'Padua')",625.7955092939098
+"('Bari', 'Palermo')",449.11351745170913
+"('Bari', 'Parma')",673.1427552630914
+"('Bari', 'Perugia')",431.3370389983044
+"('Bari', 'Pescara')",266.51009325115353
+"('Bari', 'Piacenza')",730.487440727087
+"('Bari', 'Prato')",565.8010710854909
+"('Bari', 'Ravenna')",528.8390773661979
+"('Bari', 'Reggio di Calabria')",350.21684307930036
+"('Bari', ""Reggio nell'Emilia"")",646.7127027367166
+"('Bari', 'Rimini')",480.73854159440583
+"('Bari', 'Rome')",374.69200928600924
+"('Bari', 'Salerno')",183.5677289199095
+"('Bari', 'Sassari')",701.0265300793251
+"('Bari', 'Syracuse')",469.9128092347657
+"('Bari', 'Taranto')",77.62816934136235
+"('Bari', 'Terni')",385.6488677442358
+"('Bari', 'Trento')",720.1724660627083
+"('Bari', 'Trieste')",562.3740170107444
+"('Bari', 'Turin')",867.1179907527436
+"('Bari', 'Venice')",604.0157718466423
+"('Bari', 'Verona')",676.4991684869959
+"('Bari', 'Vicenza')",654.7220646876538
+"('Bergamo', 'Bologna')",187.24219512717815
+"('Bergamo', 'Bolzano')",157.41795129567683
+"('Bergamo', 'Brescia')",46.01771032749969
+"('Bergamo', 'Cagliari')",721.3330327869141
+"('Bergamo', 'Catania')",1015.6897635265474
+"('Bergamo', 'Ferrara')",179.75009982123606
+"('Bergamo', 'Florence')",246.94155570576808
+"('Bergamo', 'Foggia')",667.7683886601226
+"('Bergamo', 'Forlì')",248.42484153984176
+"('Bergamo', 'Genoa')",153.72620944975253
+"('Bergamo', 'Giugliano in Campania')",644.1832776342671
+"('Bergamo', 'Latina')",537.0096035519557
+"('Bergamo', 'Leghorn')",244.09032560842425
+"('Bergamo', 'Messina')",965.55015184612
+"('Bergamo', 'Milan')",46.64788817127682
+"('Bergamo', 'Modena')",152.54630283590106
+"('Bergamo', 'Monza')",33.91792128864521
+"('Bergamo', 'Naples')",655.308302209301
+"('Bergamo', 'Novara')",86.53813287170418
+"('Bergamo', 'Padua')",174.7718720003287
+"('Bergamo', 'Palermo')",895.5893866502112
+"('Bergamo', 'Parma')",111.29513577125736
+"('Bergamo', 'Perugia')",360.1952875701753
+"('Bergamo', 'Pescara')",511.5437048131484
+"('Bergamo', 'Piacenza')",71.13340230767629
+"('Bergamo', 'Prato')",230.38734462635284
+"('Bergamo', 'Ravenna')",245.45849719114602
+"('Bergamo', 'Reggio di Calabria')",977.5332613989967
+"('Bergamo', ""Reggio nell'Emilia"")",133.39151648406312
+"('Bergamo', 'Rimini')",292.74184280098615
+"('Bergamo', 'Rome')",480.62579296301755
+"('Bergamo', 'Salerno')",694.5878125682352
+"('Bergamo', 'Sassari')",559.4533349315029
+"('Bergamo', 'Syracuse')",1066.841097059484
+"('Bergamo', 'Taranto')",845.5713728385285
+"('Bergamo', 'Terni')",421.62308372903595
+"('Bergamo', 'Trento')",120.20640970699036
+"('Bergamo', 'Trieste')",319.4672652589428
+"('Bergamo', 'Turin')",170.38514184455101
+"('Bergamo', 'Venice')",209.80792832033362
+"('Bergamo', 'Verona')",107.01458931375457
+"('Bergamo', 'Vicenza')",146.7782277514257
+"('Bologna', 'Bolzano')",222.28446890222884
+"('Bologna', 'Brescia')",146.3109576361904
+"('Bologna', 'Cagliari')",615.1704169666444
+"('Bologna', 'Catania')",838.3995211307431
+"('Bologna', 'Ferrara')",43.42728615199659
+"('Bologna', 'Florence')",80.40192668159493
+"('Bologna', 'Foggia')",480.7141597909132
+"('Bologna', 'Forlì')",63.195906335518075
+"('Bologna', 'Genoa')",191.99615662469898
+"('Bologna', 'Giugliano in Campania')",460.1235841232145
+"('Bologna', 'Latina')",359.5473837814664
+"('Bologna', 'Leghorn')",134.51292498261378
+"('Bologna', 'Messina')",784.1067878343192
+"('Bologna', 'Milan')",202.25092189551802
+"('Bologna', 'Modena')",37.29202792818561
+"('Bologna', 'Monza')",202.49035952221416
+"('Bologna', 'Naples')",471.17823800140684
+"('Bologna', 'Novara')",239.106738193905
+"('Bologna', 'Padua')",109.43484249642134
+"('Bologna', 'Palermo')",728.4060684859174
+"('Bologna', 'Parma')",87.93280283657002
+"('Bologna', 'Perugia')",176.03804968151366
+"('Bologna', 'Pescara')",324.43250038713836
+"('Bologna', 'Piacenza')",145.37465921457658
+"('Bologna', 'Prato')",70.66577200054621
+"('Bologna', 'Ravenna')",69.80601891428589
+"('Bologna', 'Reggio di Calabria')",795.8909260325946
+"('Bologna', ""Reggio nell'Emilia"")",61.00409883398136
+"('Bologna', 'Rimini')",109.68601505658283
+"('Bologna', 'Rome')",304.8973666553291
+"('Bologna', 'Salerno')",509.1331121393708
+"('Bologna', 'Sassari')",476.80390945632155
+"('Bologna', 'Syracuse')",889.6246608895601
+"('Bologna', 'Taranto')",658.9761374946876
+"('Bologna', 'Terni')",239.13967610201632
+"('Bologna', 'Trento')",176.44303623472896
+"('Bologna', 'Trieste')",230.08673681862584
+"('Bologna', 'Turin')",296.6880435083246
+"('Bologna', 'Venice')",129.5435641999771
+"('Bologna', 'Verona')",108.05031839839634
+"('Bologna', 'Vicenza')",117.7485593781135
+"('Bolzano', 'Brescia')",137.12944660367424
+"('Bolzano', 'Cagliari')",829.2778643053456
+"('Bolzano', 'Catania')",1046.008763209952
+"('Bolzano', 'Ferrara')",185.60918768168887
+"('Bolzano', 'Florence')",302.4095776853232
+"('Bolzano', 'Foggia')",652.3770021233769
+"('Bolzano', 'Forlì')",258.9341448112676
+"('Bolzano', 'Genoa')",298.74329617497807
+"('Bolzano', 'Giugliano in Campania')",659.7092282716814
+"('Bolzano', 'Latina')",572.3532336982233
+"('Bolzano', 'Leghorn')",338.11404968821466
+"('Bolzano', 'Messina')",985.4373219291857
+"('Bolzano', 'Milan')",204.04510557102643
+"('Bolzano', 'Modena')",208.33492914814096
+"('Bolzano', 'Monza')",190.72671912560543
+"('Bolzano', 'Naples')",670.3310207324232
+"('Bolzano', 'Novara')",241.6051684418542
+"('Bolzano', 'Padua')",127.68420802821198
+"('Bolzano', 'Palermo')",945.3916108826398
+"('Bolzano', 'Parma')",204.2666139828646
+"('Bolzano', 'Perugia')",385.59388482472633
+"('Bolzano', 'Pescara')",503.21107142367964
+"('Bolzano', 'Piacenza')",206.10643196531706
+"('Bolzano', 'Prato')",290.78200021522514
+"('Bolzano', 'Ravenna')",240.7553895993091
+"('Bolzano', 'Reggio di Calabria')",996.7135140810421
+"('Bolzano', ""Reggio nell'Emilia"")",206.721582352546
+"('Bolzano', 'Rimini')",287.56390132309537
+"('Bolzano', 'Rome')",520.4126433758133
+"('Bolzano', 'Salerno')",702.9584193409432
+"('Bolzano', 'Sassari')",679.3634325642092
+"('Bolzano', 'Syracuse')",1097.016703773977
+"('Bolzano', 'Taranto')",820.6521448865335
+"('Bolzano', 'Terni')",448.75086733904124
+"('Bolzano', 'Trento')",49.93679674999438
+"('Bolzano', 'Trieste')",209.6848929934776
+"('Bolzano', 'Turin')",326.0534250987345
+"('Bolzano', 'Venice')",141.11716133038544
+"('Bolzano', 'Verona')",121.07814849933307
+"('Bolzano', 'Vicenza')",106.61398853260592
+"('Brescia', 'Cagliari')",709.1436953096545
+"('Brescia', 'Catania')",981.2969721539517
+"('Brescia', 'Ferrara')",134.7416956839194
+"('Brescia', 'Florence')",212.67071925078798
+"('Brescia', 'Foggia')",625.2100254500172
+"('Brescia', 'Forlì')",205.6439308945537
+"('Brescia', 'Genoa')",161.61445439766905
+"('Brescia', 'Giugliano in Campania')",605.9684369192139
+"('Brescia', 'Latina')",502.01388731922003
+"('Brescia', 'Leghorn')",222.3368334010255
+"('Brescia', 'Messina')",929.0279789640853
+"('Brescia', 'Milan')",82.53117023473615
+"('Brescia', 'Modena')",114.19040005018668
+"('Brescia', 'Monza')",74.23915510350076
+"('Brescia', 'Naples')",617.0523149285085
+"('Brescia', 'Novara')",125.54369511467031
+"('Brescia', 'Padua')",129.93903464371056
+"('Brescia', 'Palermo')",865.2955345615519
+"('Brescia', 'Parma')",82.61484440430539
+"('Brescia', 'Perugia')",321.6343166218201
+"('Brescia', 'Pescara')",469.21564485927973
+"('Brescia', 'Piacenza')",68.98664441795837
+"('Brescia', 'Prato')",196.92396894401728
+"('Brescia', 'Ravenna')",200.99162865660747
+"('Brescia', 'Reggio di Calabria')",940.9036584164224
+"('Brescia', ""Reggio nell'Emilia"")",98.76737589504454
+"('Brescia', 'Rimini')",248.94203159818542
+"('Brescia', 'Rome')",446.17900991947465
+"('Brescia', 'Salerno')",655.3765830441721
+"('Brescia', 'Sassari')",552.2119507178536
+"('Brescia', 'Syracuse')",1032.5090327175615
+"('Brescia', 'Taranto')",802.3589330519204
+"('Brescia', 'Terni')",384.07502460810247
+"('Brescia', 'Trento')",91.44858647011222
+"('Brescia', 'Trieste')",277.1697043085032
+"('Brescia', 'Turin')",205.89609768435952
+"('Brescia', 'Venice')",165.47617909229254
+"('Brescia', 'Verona')",61.41588754627765
+"('Brescia', 'Vicenza')",103.07612833751455
+"('Cagliari', 'Catania')",556.3016300622202
+"('Cagliari', 'Ferrara')",657.8393444871833
+"('Cagliari', 'Florence')",536.9924823451554
+"('Cagliari', 'Foggia')",602.0626331213798
+"('Cagliari', 'Forlì')",606.3940566545103
+"('Cagliari', 'Genoa')",577.7356548534872
+"('Cagliari', 'Giugliano in Campania')",473.77984765695925
+"('Cagliari', 'Latina')",407.4955086055094
+"('Cagliari', 'Leghorn')",491.24273324063176
+"('Cagliari', 'Messina')",572.4502071464408
+"('Cagliari', 'Milan')",694.274497562614
+"('Cagliari', 'Modena')",621.6749616207434
+"('Cagliari', 'Monza')",706.61436901182
+"('Cagliari', 'Naples')",476.8352631100359
+"('Cagliari', 'Novara')",693.1536668440472
+"('Cagliari', 'Padua')",724.3868427991688
+"('Cagliari', 'Palermo')",390.2811320384364
+"('Cagliari', 'Parma')",629.0492739896075
+"('Cagliari', 'Perugia')",512.6085588029756
+"('Cagliari', 'Pescara')",561.2309745180099
+"('Cagliari', 'Piacenza')",650.4488006506975
+"('Cagliari', 'Prato')",544.5456345705444
+"('Cagliari', 'Ravenna')",632.5991933124645
+"('Cagliari', 'Reggio di Calabria')",583.0897414731527
+"('Cagliari', ""Reggio nell'Emilia"")",622.8051298244382
+"('Cagliari', 'Rimini')",610.2259685634143
+"('Cagliari', 'Rome')",413.2531396256776
+"('Cagliari', 'Salerno')",510.8190622884142
+"('Cagliari', 'Sassari')",173.89062184125248
+"('Cagliari', 'Syracuse')",592.5972411806193
+"('Cagliari', 'Taranto')",710.254760886255
+"('Cagliari', 'Terni')",477.28325122285213
+"('Cagliari', 'Trento')",779.769762178437
+"('Cagliari', 'Trieste')",810.7039616353098
+"('Cagliari', 'Turin')",661.372964783588
+"('Cagliari', 'Venice')",739.2324222199331
+"('Cagliari', 'Verona')",708.2000989648302
+"('Cagliari', 'Vicenza')",731.1879256041094
+"('Catania', 'Ferrara')",865.3842909130826
+"('Catania', 'Florence')",769.0849052550734
+"('Catania', 'Foggia')",442.61718640414216
+"('Catania', 'Forlì')",789.1687175900372
+"('Catania', 'Genoa')",925.990701073729
+"('Catania', 'Giugliano in Campania')",388.4705262819164
+"('Catania', 'Latina')",479.3019034969043
+"('Catania', 'Leghorn')",784.1387166785358
+"('Catania', 'Messina')",87.04364014587367
+"('Catania', 'Milan')",1012.7891841378623
+"('Catania', 'Modena')",867.2891464677292
+"('Catania', 'Monza')",1019.3017079440828
+"('Catania', 'Naples')",378.4368678793541
+"('Catania', 'Novara')",1033.95619199117
+"('Catania', 'Padua')",918.3249869776093
+"('Catania', 'Palermo')",166.3570679647983
+"('Catania', 'Parma')",904.403038342566
+"('Catania', 'Perugia')",663.4847752987641
+"('Catania', 'Pescara')",555.712082587446
+"('Catania', 'Piacenza')",953.1845115101653
+"('Catania', 'Prato')",785.4054494528867
+"('Catania', 'Ravenna')",805.4288210353067
+"('Catania', 'Reggio di Calabria')",84.28339538220968
+"('Catania', ""Reggio nell'Emilia"")",883.3110459119699
+"('Catania', 'Rimini')",758.5673885356498
+"('Catania', 'Rome')",535.2278420178834
+"('Catania', 'Salerno')",354.05140766475176
+"('Catania', 'Sassari')",667.9573910080824
+"('Catania', 'Syracuse')",51.227395340192665
+"('Catania', 'Taranto')",380.05488277096674
+"('Catania', 'Terni')",599.8643203292356
+"('Catania', 'Trento')",1007.8711247010584
+"('Catania', 'Trieste')",911.7142110570467
+"('Catania', 'Turin')",1044.4226656939156
+"('Catania', 'Venice')",910.0435882800597
+"('Catania', 'Verona')",945.3713304359196
+"('Catania', 'Vicenza')",941.3608668113338
+"('Ferrara', 'Florence')",121.42821388175501
+"('Ferrara', 'Foggia')",492.68596881454897
+"('Ferrara', 'Forlì')",76.55842285965949
+"('Ferrara', 'Genoa')",217.71511138140266
+"('Ferrara', 'Giugliano in Campania')",482.7314014269223
+"('Ferrara', 'Latina')",388.5835637856746
+"('Ferrara', 'Leghorn')",177.51524874194573
+"('Ferrara', 'Messina')",808.2340352067332
+"('Ferrara', 'Milan')",204.23194634380386
+"('Ferrara', 'Modena')",58.582097243737906
+"('Ferrara', 'Monza')",201.3737313208582
+"('Ferrara', 'Naples')",493.6375664899913
+"('Ferrara', 'Novara')",244.71617859027248
+"('Ferrara', 'Padua')",66.56722292632472
+"('Ferrara', 'Palermo')",760.4688841127982
+"('Ferrara', 'Parma')",102.07494093468547
+"('Ferrara', 'Perugia')",202.15290561946034
+"('Ferrara', 'Pescara')",337.48320220347534
+"('Ferrara', 'Piacenza')",154.25258534152854
+"('Ferrara', 'Prato')",113.4091392385717
+"('Ferrara', 'Ravenna')",66.67171194357726
+"('Ferrara', 'Reggio di Calabria')",819.8206808954037
+"('Ferrara', ""Reggio nell'Emilia"")",78.90495139809798
+"('Ferrara', 'Rimini')",115.54684140192654
+"('Ferrara', 'Rome')",335.5837966864241
+"('Ferrara', 'Salerno')",529.4887120607485
+"('Ferrara', 'Sassari')",520.2311556626067
+"('Ferrara', 'Syracuse')",916.5518632673186
+"('Ferrara', 'Taranto')",668.737807663055
+"('Ferrara', 'Terni')",265.77081642999184
+"('Ferrara', 'Trento')",143.04328845330593
+"('Ferrara', 'Trieste')",191.984464376275
+"('Ferrara', 'Turin')",311.19738044274567
+"('Ferrara', 'Venice')",86.64215598742508
+"('Ferrara', 'Verona')",82.60947243472428
+"('Ferrara', 'Vicenza')",79.09774511719976
+"('Florence', 'Foggia')",436.77552956353685
+"('Florence', 'Forlì')",80.03075988738944
+"('Florence', 'Genoa')",198.15513186397985
+"('Florence', 'Giugliano in Campania')",399.0552474946883
+"('Florence', 'Latina')",290.102957969558
+"('Florence', 'Leghorn')",80.00693586361608
+"('Florence', 'Messina')",718.7263291532942
+"('Florence', 'Milan')",249.49106675898844
+"('Florence', 'Modena')",99.99638078931501
+"('Florence', 'Monza')",253.76511548116295
+"('Florence', 'Naples')",410.2071451683857
+"('Florence', 'Novara')",278.69261143714016
+"('Florence', 'Padua')",187.9103801072048
+"('Florence', 'Palermo')",653.3488615551177
+"('Florence', 'Parma')",135.97606698866787
+"('Florence', 'Perugia')",119.19198932605904
+"('Florence', 'Pescara')",282.68468492472795
+"('Florence', 'Piacenza')",188.84409506422887
+"('Florence', 'Prato')",17.17330189828679
+"('Florence', 'Ravenna')",105.30559521161433
+"('Florence', 'Reggio di Calabria')",730.7426536094483
+"('Florence', ""Reggio nell'Emilia"")",114.24855047129498
+"('Florence', 'Rimini')",111.25435932675673
+"('Florence', 'Rome')",233.86222921872888
+"('Florence', 'Salerno')",451.0044836414647
+"('Florence', 'Sassari')",404.5262156476733
+"('Florence', 'Syracuse')",820.2715034928696
+"('Florence', 'Taranto')",616.5461834256613
+"('Florence', 'Terni')",176.6692948690272
+"('Florence', 'Trento')",255.77533950195553
+"('Florence', 'Trieste')",288.7106121854873
+"('Florence', 'Turin')",318.1091269583263
+"('Florence', 'Venice')",202.74245554716762
+"('Florence', 'Verona')",185.53020645616516
+"('Florence', 'Vicenza')",198.12487659698442
+"('Foggia', 'Forlì')",419.5905041808931
+"('Foggia', 'Genoa')",631.6031482318925
+"('Foggia', 'Giugliano in Campania')",128.8781820519082
+"('Foggia', 'Latina')",222.19352410009628
+"('Foggia', 'Leghorn')",489.31124873337836
+"('Foggia', 'Messina')",364.1830730808611
+"('Foggia', 'Milan')",680.7933827034427
+"('Foggia', 'Modena')",516.6162612411697
+"('Foggia', 'Monza')",682.4487544321729
+"('Foggia', 'Naples')",127.60154449436713
+"('Foggia', 'Novara')",713.7403248704293
+"('Foggia', 'Padua')",529.3663216953859
+"('Foggia', 'Palermo')",416.5322210684849
+"('Foggia', 'Parma')",564.3410393814291
+"('Foggia', 'Perugia')",317.93489290448105
+"('Foggia', 'Pescara')",156.29863325391386
+"('Foggia', 'Piacenza')",621.1607243195516
+"('Foggia', 'Prato')",453.6490654801784
+"('Foggia', 'Ravenna')",426.18876627508916
+"('Foggia', 'Reggio di Calabria')",373.1612498775885
+"('Foggia', ""Reggio nell'Emilia"")",538.364860675056
+"('Foggia', 'Rimini')",377.1399433909513
+"('Foggia', 'Rome')",258.1907130757902
+"('Foggia', 'Salerno')",109.51661720605695
+"('Foggia', 'Sassari')",592.7687161496
+"('Foggia', 'Syracuse')",489.0055554592043
+"('Foggia', 'Taranto')",179.77207959666515
+"('Foggia', 'Terni')",269.4601401670805
+"('Foggia', 'Trento')",623.914700174852
+"('Foggia', 'Trieste')",486.1362561634667
+"('Foggia', 'Turin')",753.7874058798126
+"('Foggia', 'Venice')",511.26329707564656
+"('Foggia', 'Verona')",574.9120659539856
+"('Foggia', 'Vicenza')",557.1719898512379
+"('Forlì', 'Genoa')",248.28036313111488
+"('Forlì', 'Giugliano in Campania')",406.18118283257286
+"('Forlì', 'Latina')",313.47582985672835
+"('Forlì', 'Leghorn')",157.69629666648635
+"('Forlì', 'Messina')",731.6813700963901
+"('Forlì', 'Milan')",265.34550867718366
+"('Forlì', 'Modena')",100.4646084412534
+"('Forlì', 'Monza')",265.2372752744479
+"('Forlì', 'Naples')",417.0941665843321
+"('Forlì', 'Novara')",302.26921199499367
+"('Forlì', 'Padua')",132.84665782671308
+"('Forlì', 'Palermo')",686.5539578748528
+"('Forlì', 'Parma')",150.93836462213662
+"('Forlì', 'Perugia')",126.69898082613139
+"('Forlì', 'Pescara')",263.5770276196447
+"('Forlì', 'Piacenza')",208.4964195147207
+"('Forlì', 'Prato')",83.77411578876621
+"('Forlì', 'Ravenna')",26.45904737732812
+"('Forlì', 'Reggio di Calabria')",743.2637616307153
+"('Forlì', ""Reggio nell'Emilia"")",123.99952263061773
+"('Forlì', 'Rimini')",46.723760122246745
+"('Forlì', 'Rome')",261.6638866310405
+"('Forlì', 'Salerno')",453.1845550644134
+"('Forlì', 'Sassari')",481.2645999521971
+"('Forlì', 'Syracuse')",840.3137488802347
+"('Forlì', 'Taranto')",597.146531462375
+"('Forlì', 'Terni')",190.07127456939813
+"('Forlì', 'Trento')",218.74339000023846
+"('Forlì', 'Trieste')",210.03446646060155
+"('Forlì', 'Turin')",358.0031091446018
+"('Forlì', 'Venice')",136.54214455186533
+"('Forlì', 'Verona')",158.56803480936728
+"('Forlì', 'Vicenza')",152.7870125034356
+"('Genoa', 'Giugliano in Campania')",579.6020835159276
+"('Genoa', 'Latina')",460.1630735329365
+"('Genoa', 'Leghorn')",146.36826834006118
+"('Genoa', 'Messina')",885.9648906053574
+"('Genoa', 'Milan')",118.21440414566239
+"('Genoa', 'Modena')",160.21649089511217
+"('Genoa', 'Monza')",131.67038925627676
+"('Genoa', 'Naples')",590.6182812703953
+"('Genoa', 'Novara')",117.05053035543504
+"('Genoa', 'Padua')",256.88038107912917
+"('Genoa', 'Palermo')",791.7305934731605
+"('Genoa', 'Parma')",118.5332719624068
+"('Genoa', 'Perugia')",314.2970726707031
+"('Genoa', 'Pescara')",479.5899948169552
+"('Genoa', 'Piacenza')",92.66407883610667
+"('Genoa', 'Prato')",182.54670063615103
+"('Genoa', 'Ravenna')",261.19593100584683
+"('Genoa', 'Reggio di Calabria')",898.3194873440953
+"('Genoa', ""Reggio nell'Emilia"")",138.8386777202299
+"('Genoa', 'Rimini')",293.48440100217516
+"('Genoa', 'Rome')",404.04554694368284
+"('Genoa', 'Salerno')",634.2678202339359
+"('Genoa', 'Sassari')",411.0244860263545
+"('Genoa', 'Syracuse')",976.3876705209411
+"('Genoa', 'Taranto')",811.0865255632106
+"('Genoa', 'Terni')",364.3276800336133
+"('Genoa', 'Trento')",252.1554504405696
+"('Genoa', 'Trieste')",405.061371211938
+"('Genoa', 'Turin')",123.19477068521964
+"('Genoa', 'Venice')",290.9195403675198
+"('Genoa', 'Verona')",198.21870462870712
+"('Genoa', 'Vicenza')",241.10690806164408
+"('Giugliano in Campania', 'Latina')",124.44567231892404
+"('Giugliano in Campania', 'Leghorn')",433.2484955085369
+"('Giugliano in Campania', 'Messina')",325.8788641177723
+"('Giugliano in Campania', 'Milan')",648.4585696424311
+"('Giugliano in Campania', 'Modena')",492.1960960470224
+"('Giugliano in Campania', 'Monza')",652.7850589195933
+"('Giugliano in Campania', 'Naples')",11.1526869070739
+"('Giugliano in Campania', 'Novara')",675.8015754088794
+"('Giugliano in Campania', 'Padua')",532.2002904147344
+"('Giugliano in Campania', 'Palermo')",320.035247821003
+"('Giugliano in Campania', 'Parma')",534.4457497198655
+"('Giugliano in Campania', 'Perugia')",284.33831841710895
+"('Giugliano in Campania', 'Pescara')",169.9412346703566
+"('Giugliano in Campania', 'Piacenza')",587.8152611008586
+"('Giugliano in Campania', 'Prato')",416.1365784978317
+"('Giugliano in Campania', 'Ravenna')",420.25678560045463
+"('Giugliano in Campania', 'Reggio di Calabria')",337.30941864101976
+"('Giugliano in Campania', ""Reggio nell'Emilia"")",510.8479271755744
+"('Giugliano in Campania', 'Rimini')",372.29962004841144
+"('Giugliano in Campania', 'Rome')",177.00914331276218
+"('Giugliano in Campania', 'Salerno')",56.26767299492243
+"('Giugliano in Campania', 'Sassari')",475.33273103035884
+"('Giugliano in Campania', 'Syracuse')",438.9751350416187
+"('Giugliano in Campania', 'Taranto')",262.53764816285604
+"('Giugliano in Campania', 'Terni')",222.66977112300634
+"('Giugliano in Campania', 'Trento')",623.5910102523364
+"('Giugliano in Campania', 'Trieste')",525.4889406681657
+"('Giugliano in Campania', 'Turin')",702.6405479455359
+"('Giugliano in Campania', 'Venice')",522.262161220626
+"('Giugliano in Campania', 'Verona')",564.4345896391695
+"('Giugliano in Campania', 'Vicenza')",556.4882083941328
+"('Latina', 'Leghorn')",314.1249345578435
+"('Latina', 'Messina')",429.45724701616626
+"('Latina', 'Milan')",536.6134463025094
+"('Latina', 'Modena')",387.98748324063695
+"('Latina', 'Monza')",542.2266503703029
+"('Latina', 'Naples')",134.743654502029
+"('Latina', 'Novara')",561.0197274300605
+"('Latina', 'Padua')",445.44857541278384
+"('Latina', 'Palermo')",374.1230870581366
+"('Latina', 'Parma')",425.85478128473346
+"('Latina', 'Perugia')",186.7773130664732
+"('Latina', 'Pescara')",155.12488653063755
+"('Latina', 'Piacenza')",476.3475542233309
+"('Latina', 'Prato')",306.6315702545823
+"('Latina', 'Ravenna')",332.3825887845966
+"('Latina', 'Reggio di Calabria')",441.60009329354745
+"('Latina', ""Reggio nell'Emilia"")",404.2120618284941
+"('Latina', 'Rimini')",288.90739553622274
+"('Latina', 'Rome')",56.837851102893964
+"('Latina', 'Salerno')",180.71323290471733
+"('Latina', 'Sassari')",372.87747392264606
+"('Latina', 'Syracuse')",530.5211674265227
+"('Latina', 'Taranto')",382.22679380827776
+"('Latina', 'Terni')",123.78731133093633
+"('Latina', 'Trento')",531.6208407838286
+"('Latina', 'Trieste')",469.8156674075742
+"('Latina', 'Turin')",582.6203924306731
+"('Latina', 'Venice')",442.2875273571771
+"('Latina', 'Verona')",467.0738739644576
+"('Latina', 'Vicenza')",466.23833365266233
+"('Leghorn', 'Messina')",741.3883089503312
+"('Leghorn', 'Milan')",231.4966304535702
+"('Leghorn', 'Modena')",131.9217598208624
+"('Leghorn', 'Monza')",239.95593564368414
+"('Leghorn', 'Naples')",444.25837164826333
+"('Leghorn', 'Novara')",249.84229612826766
+"('Leghorn', 'Padua')",241.48374577393
+"('Leghorn', 'Palermo')",655.7900027657629
+"('Leghorn', 'Parma')",140.01498821110388
+"('Leghorn', 'Perugia')",176.40803023523574
+"('Leghorn', 'Pescara')",340.9789668508715
+"('Leghorn', 'Piacenza')",174.92836560637735
+"('Leghorn', 'Prato')",74.0242139473328
+"('Leghorn', 'Ravenna')",181.16841963801093
+"('Leghorn', 'Reggio di Calabria')",753.6895449904565
+"('Leghorn', ""Reggio nell'Emilia"")",131.57069950385687
+"('Leghorn', 'Rimini')",191.24308722651088
+"('Leghorn', 'Rome')",257.8142568416618
+"('Leghorn', 'Salerno')",488.0111730180749
+"('Leghorn', 'Sassari')",344.66168759909914
+"('Leghorn', 'Syracuse')",834.877099315176
+"('Leghorn', 'Taranto')",668.0394991199938
+"('Leghorn', 'Terni')",220.21520259109056
+"('Leghorn', 'Trento')",288.5343358452916
+"('Leghorn', 'Trieste')",360.9847729455307
+"('Leghorn', 'Turin')",269.40970530597383
+"('Leghorn', 'Venice')",264.01876838043154
+"('Leghorn', 'Verona')",217.0698385299134
+"('Leghorn', 'Vicenza')",243.1004930736521
+"('Messina', 'Milan')",966.0706567339452
+"('Messina', 'Modena')",814.863584686536
+"('Messina', 'Monza')",971.6065301900056
+"('Messina', 'Naples')",315.16039836000436
+"('Messina', 'Novara')",989.9743273846308
+"('Messina', 'Padua')",858.0115542328692
+"('Messina', 'Palermo')",192.10023199305985
+"('Messina', 'Parma')",854.695529725303
+"('Messina', 'Perugia')",608.0992052327018
+"('Messina', 'Pescara')",487.610106028634
+"('Messina', 'Piacenza')",905.7825250125796
+"('Messina', 'Prato')",735.4798773217842
+"('Messina', 'Ravenna')",746.1256825682494
+"('Messina', 'Reggio di Calabria')",12.477352214328397
+"('Messina', ""Reggio nell'Emilia"")",832.3005996590222
+"('Messina', 'Rimini')",698.1499161401671
+"('Messina', 'Rome')",486.26929983942176
+"('Messina', 'Salerno')",284.48474371362755
+"('Messina', 'Sassari')",664.1234549537054
+"('Messina', 'Syracuse')",126.40895916337286
+"('Messina', 'Taranto')",293.01721721226914
+"('Messina', 'Terni')",545.0658569063904
+"('Messina', 'Trento')",949.4399330535846
+"('Messina', 'Trieste')",841.5871414177097
+"('Messina', 'Turin')",1006.7571115925921
+"('Messina', 'Venice')",847.2962295195107
+"('Messina', 'Verona')",889.556270712399
+"('Messina', 'Vicenza')",882.3620885057953
+"('Milan', 'Modena')",165.23236581774265
+"('Milan', 'Monza')",14.50856854090449
+"('Milan', 'Naples')",659.6112515115755
+"('Milan', 'Novara')",43.07466891258297
+"('Milan', 'Padua')",211.3460549165603
+"('Milan', 'Palermo')",887.2074399358708
+"('Milan', 'Parma')",116.45275669822634
+"('Milan', 'Perugia')",367.11679478007744
+"('Milan', 'Pescara')",524.6539122444594
+"('Milan', 'Piacenza')",60.64923118840254
+"('Milan', 'Prato')",232.36546214136953
+"('Milan', 'Ravenna')",266.769679994414
+"('Milan', 'Reggio di Calabria')",978.2073384378298
+"('Milan', ""Reggio nell'Emilia"")",142.62851446035404
+"('Milan', 'Rimini')",311.41697170771994
+"('Milan', 'Rome')",479.80938872809827
+"('Milan', 'Salerno')",700.4717598883162
+"('Milan', 'Sassari')",528.9205296800174
+"('Milan', 'Syracuse')",1063.7632663772813
+"('Milan', 'Taranto')",859.8512389440128
+"('Milan', 'Terni')",426.1565829117672
+"('Milan', 'Trento')",166.12306014008257
+"('Milan', 'Trieste')",359.6520807011607
+"('Milan', 'Turin')",124.69152967395101
+"('Milan', 'Venice')",247.22202869058108
+"('Milan', 'Verona')",142.3969385227682
+"('Milan', 'Vicenza')",185.4083530739144
+"('Modena', 'Monza')",165.94484669892304
+"('Modena', 'Naples')",503.3003711396173
+"('Modena', 'Novara')",201.81613376921283
+"('Modena', 'Padua')",112.86286211872951
+"('Modena', 'Palermo')",753.29996570082
+"('Modena', 'Parma')",50.746415746862766
+"('Modena', 'Perugia')",207.9230707851319
+"('Modena', 'Pescara')",360.32506525577287
+"('Modena', 'Piacenza')",108.08714921947443
+"('Modena', 'Prato')",85.53305733557347
+"('Modena', 'Ravenna')",105.66790699500218
+"('Modena', 'Reggio di Calabria')",826.7509815764139
+"('Modena', ""Reggio nell'Emilia"")",23.939721051289947
+"('Modena', 'Rimini')",146.9762149215085
+"('Modena', 'Rome')",332.3599045505514
+"('Modena', 'Salerno')",542.1781290042599
+"('Modena', 'Sassari')",476.41905206831524
+"('Modena', 'Syracuse')",918.5086394607839
+"('Modena', 'Taranto')",695.2320099552751
+"('Modena', 'Terni')",270.0055741472322
+"('Modena', 'Trento')",159.69901743172815
+"('Modena', 'Trieste')",250.1463637591735
+"('Modena', 'Turin')",260.4645112613965
+"('Modena', 'Venice')",140.9091944551222
+"('Modena', 'Verona')",87.96783239407313
+"('Modena', 'Vicenza')",111.28924615483855
+"('Monza', 'Naples')",663.9354721743188
+"('Monza', 'Novara')",52.80422977041385
+"('Monza', 'Padua')",204.09620705713354
+"('Monza', 'Palermo')",895.1770324275753
+"('Monza', 'Parma')",118.86975036286778
+"('Monza', 'Perugia')",370.38042095485014
+"('Monza', 'Pescara')",526.1845833334554
+"('Monza', 'Piacenza')",66.13071891143346
+"('Monza', 'Prato')",236.74025762933024
+"('Monza', 'Ravenna')",265.2187980495849
+"('Monza', 'Reggio di Calabria')",983.7020377360125
+"('Monza', ""Reggio nell'Emilia"")",144.17999730359347
+"('Monza', 'Rimini')",310.85718810885277
+"('Monza', 'Rome')",485.4934946472955
+"('Monza', 'Salerno')",704.3445125256661
+"('Monza', 'Sassari')",541.8937418130035
+"('Monza', 'Syracuse')",1070.3353744883243
+"('Monza', 'Taranto')",861.1722774120658
+"('Monza', 'Terni')",430.2232349806755
+"('Monza', 'Trento')",154.10944797097906
+"('Monza', 'Trieste')",351.0346341214706
+"('Monza', 'Turin')",136.46733097222184
+"('Monza', 'Venice')",239.70819118381925
+"('Monza', 'Verona')",135.30303287169158
+"('Monza', 'Vicenza')",177.23999371543923
+"('Naples', 'Novara')",686.9398093398219
+"('Naples', 'Padua')",542.8614615046334
+"('Naples', 'Palermo')",313.03962046669085
+"('Naples', 'Parma')",545.5899653144137
+"('Naples', 'Perugia')",295.4282487181939
+"('Naples', 'Pescara')",178.88703651063597
+"('Naples', 'Piacenza')",598.9679470591983
+"('Naples', 'Prato')",427.2889431437331
+"('Naples', 'Ravenna')",431.0306603560136
+"('Naples', 'Reggio di Calabria')",326.5444540095204
+"('Naples', ""Reggio nell'Emilia"")",521.9780611714048
+"('Naples', 'Rimini')",382.98951874857363
+"('Naples', 'Rome')",187.79505534483067
+"('Naples', 'Salerno')",46.24532696291669
+"('Naples', 'Sassari')",482.0322401745308
+"('Naples', 'Syracuse')",428.83790053498853
+"('Naples', 'Taranto')",254.46804080917755
+"('Naples', 'Terni')",233.81138989756252
+"('Naples', 'Trento')",634.3795692158872
+"('Naples', 'Trieste')",534.8090889397008
+"('Naples', 'Turin')",713.6389445536264
+"('Naples', 'Venice')",532.6875433021969
+"('Naples', 'Verona')",575.3911637675865
+"('Naples', 'Vicenza')",567.2497449278095
+"('Novara', 'Padua')",254.34980077143157
+"('Novara', 'Palermo')",904.0582736342833
+"('Novara', 'Parma')",151.4689935231678
+"('Novara', 'Perugia')",397.63731540360305
+"('Novara', 'Pescara')",558.0731883550925
+"('Novara', 'Piacenza')",93.81732525588315
+"('Novara', 'Prato')",261.54060910704726
+"('Novara', 'Ravenna')",305.58891262615623
+"('Novara', 'Reggio di Calabria')",1002.2086672733329
+"('Novara', ""Reggio nell'Emilia"")",178.34571723047605
+"('Novara', 'Rimini')",348.778470126784
+"('Novara', 'Rome')",504.21458399538943
+"('Novara', 'Salerno')",728.7828566304677
+"('Novara', 'Sassari')",524.3889261874816
+"('Novara', 'Syracuse')",1084.7140890127398
+"('Novara', 'Taranto')",893.2510665112347
+"('Novara', 'Terni')",454.68794393293746
+"('Novara', 'Trento')",206.68711345185295
+"('Novara', 'Trieste')",402.7017107626951
+"('Novara', 'Turin')",84.45894281264431
+"('Novara', 'Venice')",290.25699100208556
+"('Novara', 'Verona')",185.41148882323333
+"('Novara', 'Vicenza')",228.47933953780088
+"('Padua', 'Palermo')",819.0740117824544
+"('Padua', 'Parma')",139.01088787617692
+"('Padua', 'Perugia')",258.91957234120406
+"('Padua', 'Pescara')",377.76675318713734
+"('Padua', 'Piacenza')",176.3053692430327
+"('Padua', 'Prato')",179.8833269603014
+"('Padua', 'Ravenna')",113.24688559731894
+"('Padua', 'Reggio di Calabria')",869.3364310381585
+"('Padua', ""Reggio nell'Emilia"")",124.86045008876656
+"('Padua', 'Rimini')",159.93754554234627
+"('Padua', 'Rome')",394.3760792918816
+"('Padua', 'Salerno')",576.0532000974356
+"('Padua', 'Sassari')",585.5273724376646
+"('Padua', 'Syracuse')",969.3327857367782
+"('Padua', 'Taranto')",701.0988990636973
+"('Padua', 'Terni')",321.6972157924855
+"('Padua', 'Trento')",94.61307510139319
+"('Padua', 'Trieste')",150.79546003219656
+"('Padua', 'Turin')",330.9568113831953
+"('Padua', 'Venice')",36.07208970412391
+"('Padua', 'Verona')",68.95066661272608
+"('Padua', 'Vicenza')",30.129893989361843
+"('Palermo', 'Parma')",785.0559471359697
+"('Palermo', 'Perugia')",560.1569172338722
+"('Palermo', 'Pescara')",487.29660403675825
+"('Palermo', 'Piacenza')",829.3809830382797
+"('Palermo', 'Prato')",668.5578364246005
+"('Palermo', 'Ravenna')",706.2556166415242
+"('Palermo', 'Reggio di Calabria')",200.8198077021519
+"('Palermo', ""Reggio nell'Emilia"")",766.5343044459588
+"('Palermo', 'Rimini')",662.9925878789295
+"('Palermo', 'Rome')",424.9862554563348
+"('Palermo', 'Salerno')",309.0689134010174
+"('Palermo', 'Sassari')",504.6395587837354
+"('Palermo', 'Syracuse')",206.4685647180968
+"('Palermo', 'Taranto')",424.96993738322254
+"('Palermo', 'Terni')",497.7967252235814
+"('Palermo', 'Trento')",903.2611763486279
+"('Palermo', 'Trieste')",837.0550356816726
+"('Palermo', 'Turin')",905.9654451293399
+"('Palermo', 'Venice')",816.3980556967722
+"('Palermo', 'Verona')",836.4515733614221
+"('Palermo', 'Vicenza')",838.9191885394742
+"('Parma', 'Perugia')",251.53935592491914
+"('Parma', 'Pescara')",408.2163300580567
+"('Parma', 'Piacenza')",57.65426248112829
+"('Parma', 'Prato')",119.24693596215177
+"('Parma', 'Ravenna')",156.14546614839628
+"('Parma', 'Reggio di Calabria')",866.7164379820232
+"('Parma', ""Reggio nell'Emilia"")",26.942823860477837
+"('Parma', 'Rimini')",197.5678552911568
+"('Parma', 'Rome')",369.3984210671293
+"('Parma', 'Salerno')",585.6695250382412
+"('Parma', 'Sassari')",475.5459539339811
+"('Parma', 'Syracuse')",955.5508927041776
+"('Parma', 'Taranto')",743.4353300897322
+"('Parma', 'Terni')",311.7834841814405
+"('Parma', 'Trento')",154.39997084359166
+"('Parma', 'Trieste')",286.53480733106056
+"('Parma', 'Turin')",210.49427792876835
+"('Parma', 'Venice')",172.5024786923093
+"('Parma', 'Verona')",87.63849354730617
+"('Parma', 'Vicenza')",126.3246633843909
+"('Perugia', 'Pescara')",165.498242539523
+"('Perugia', 'Piacenza')",306.65145512336
+"('Perugia', 'Prato')",136.2477153089619
+"('Perugia', 'Ravenna')",146.27078811199718
+"('Perugia', 'Reggio di Calabria')",619.8670084234718
+"('Perugia', ""Reggio nell'Emilia"")",227.12576812951173
+"('Perugia', 'Rimini')",106.54527123549394
+"('Perugia', 'Rome')",135.82252658371334
+"('Perugia', 'Salerno')",334.4172367949658
+"('Perugia', 'Sassari')",413.2287775599955
+"('Perugia', 'Syracuse')",714.680750000293
+"('Perugia', 'Taranto')",497.6843940555141
+"('Perugia', 'Terni')",63.64271193762265
+"('Perugia', 'Trento')",345.0858636627462
+"('Perugia', 'Trieste')",302.899865182425
+"('Perugia', 'Turin')",435.9795378899532
+"('Perugia', 'Venice')",257.83712903745266
+"('Perugia', 'Verona')",281.98689415598864
+"('Perugia', 'Vicenza')",279.4724814561173
+"('Pescara', 'Piacenza')",465.19695548768897
+"('Pescara', 'Prato')",299.2910638376432
+"('Pescara', 'Ravenna')",271.3375329978229
+"('Pescara', 'Reggio di Calabria')",498.2820862137804
+"('Pescara', ""Reggio nell'Emilia"")",382.14729220441285
+"('Pescara', 'Rimini')",222.09162068505526
+"('Pescara', 'Rome')",154.81960276912253
+"('Pescara', 'Salerno')",203.13676705238862
+"('Pescara', 'Sassari')",508.60942288264704
+"('Pescara', 'Syracuse')",605.5496942694658
+"('Pescara', 'Taranto')",335.2535483003723
+"('Pescara', 'Terni')",128.7789435190754
+"('Pescara', 'Trento')",471.786122350089
+"('Pescara', 'Trieste')",356.1990780543332
+"('Pescara', 'Turin')",600.7042049362549
+"('Pescara', 'Venice')",362.84806569915196
+"('Pescara', 'Verona')",419.9780474353745
+"('Pescara', 'Vicenza')",404.5823285512894
+"('Piacenza', 'Prato')",171.71642897444596
+"('Piacenza', 'Ravenna')",212.61823597545248
+"('Piacenza', 'Reggio di Calabria')",917.8988062831896
+"('Piacenza', ""Reggio nell'Emilia"")",84.53308784184077
+"('Piacenza', 'Rimini')",255.0605540892278
+"('Piacenza', 'Rome')",419.5782272424271
+"('Piacenza', 'Salerno')",639.834008989348
+"('Piacenza', 'Sassari')",489.62983827266254
+"('Piacenza', 'Syracuse')",1004.2128803102712
+"('Piacenza', 'Taranto')",800.4504385353521
+"('Piacenza', 'Terni')",365.5116721779673
+"('Piacenza', 'Trento')",159.6422718279297
+"('Piacenza', 'Trieste')",327.08582058263465
+"('Piacenza', 'Turin')",157.51321102418817
+"('Piacenza', 'Venice')",212.06584128640947
+"('Piacenza', 'Verona')",111.17124726666088
+"('Piacenza', 'Vicenza')",155.70372908612103
+"('Prato', 'Ravenna')",107.21657380016791
+"('Prato', 'Reggio di Calabria')",747.513207307852
+"('Prato', ""Reggio nell'Emilia"")",98.23286619246431
+"('Prato', 'Rimini')",120.24610813266263
+"('Prato', 'Rome')",250.25032744191947
+"('Prato', 'Salerno')",468.1530060787553
+"('Prato', 'Sassari')",408.2614476648242
+"('Prato', 'Syracuse')",836.5771883124075
+"('Prato', 'Taranto')",633.4120027344793
+"('Prato', 'Terni')",193.81115334123584
+"('Prato', 'Trento')",243.3894481175055
+"('Prato', 'Trieste')",288.5203793282417
+"('Prato', 'Turin')",301.7448392353635
+"('Prato', 'Venice')",197.37267532812427
+"('Prato', 'Verona')",172.42653867058445
+"('Prato', 'Vicenza')",187.88260708600308
+"('Ravenna', 'Reggio di Calabria')",757.5641522871273
+"('Ravenna', ""Reggio nell'Emilia"")",129.58548374439064
+"('Ravenna', 'Rimini')",49.26615789102609
+"('Ravenna', 'Rome')",282.0596922884045
+"('Ravenna', 'Salerno')",465.56777024509125
+"('Ravenna', 'Sassari')",507.6380560176856
+"('Ravenna', 'Syracuse')",856.4832096389556
+"('Ravenna', 'Taranto')",602.0666375453894
+"('Ravenna', 'Terni')",208.59673656520027
+"('Ravenna', 'Trento')",203.35972444719084
+"('Ravenna', 'Trieste')",183.82872267717445
+"('Ravenna', 'Turin')",366.09394014719805
+"('Ravenna', 'Venice')",112.64069747773023
+"('Ravenna', 'Verona')",148.7393942054608
+"('Ravenna', 'Vicenza')",136.2416575230537
+"('Reggio di Calabria', ""Reggio nell'Emilia"")",844.2606748243641
+"('Reggio di Calabria', 'Rimini')",709.5112921234869
+"('Reggio di Calabria', 'Rome')",498.42161553613056
+"('Reggio di Calabria', 'Salerno')",295.2224954278373
+"('Reggio di Calabria', 'Sassari')",675.9990106220904
+"('Reggio di Calabria', 'Syracuse')",119.72689054756697
+"('Reggio di Calabria', 'Taranto')",296.71047143147985
+"('Reggio di Calabria', 'Terni')",556.8965582941001
+"('Reggio di Calabria', 'Trento')",960.9001422207867
+"('Reggio di Calabria', 'Trieste')",851.8202258824483
+"('Reggio di Calabria', 'Turin')",1019.1521474017433
+"('Reggio di Calabria', 'Venice')",858.4013651725426
+"('Reggio di Calabria', 'Verona')",901.2191107520655
+"('Reggio di Calabria', 'Vicenza')",893.7906639836432
+"(""Reggio nell'Emilia"", 'Rimini')",170.62507125856942
+"(""Reggio nell'Emilia"", 'Rome')",348.0832758420256
+"(""Reggio nell'Emilia"", 'Salerno')",561.5266978384851
+"(""Reggio nell'Emilia"", 'Sassari')",473.4794041991253
+"(""Reggio nell'Emilia"", 'Syracuse')",934.5026210797014
+"(""Reggio nell'Emilia"", 'Taranto')",717.2810634169023
+"(""Reggio nell'Emilia"", 'Terni')",288.2466426362318
+"(""Reggio nell'Emilia"", 'Trento')",157.02006680398367
+"(""Reggio nell'Emilia"", 'Trieste')",267.9771324871572
+"(""Reggio nell'Emilia"", 'Turin')",236.60830997271822
+"(""Reggio nell'Emilia"", 'Venice')",155.9608832850017
+"(""Reggio nell'Emilia"", 'Verona')",85.93710808320459
+"(""Reggio nell'Emilia"", 'Vicenza')",117.64010366532213
+"('Rimini', 'Rome')",241.1377928379251
+"('Rimini', 'Salerno')",416.853543418384
+"('Rimini', 'Sassari')",495.6909359648431
+"('Rimini', 'Syracuse')",809.534053905301
+"('Rimini', 'Taranto')",553.501938338942
+"('Rimini', 'Terni')",165.66447294222908
+"('Rimini', 'Trento')",251.85025427293016
+"('Rimini', 'Trieste')",200.5394101874627
+"('Rimini', 'Turin')",404.5583855622616
+"('Rimini', 'Venice')",153.42537077972233
+"('Rimini', 'Verona')",197.91149042291212
+"('Rimini', 'Vicenza')",184.54147335301
+"('Rome', 'Salerno')",232.837926473714
+"('Rome', 'Sassari')",354.1508726839439
+"('Rome', 'Syracuse')",586.4200659883571
+"('Rome', 'Taranto')",427.3260392434922
+"('Rome', 'Terni')",76.5411082252729
+"('Rome', 'Trento')",478.5201316506459
+"('Rome', 'Trieste')",430.08075904862
+"('Rome', 'Turin')",526.746585832585
+"('Rome', 'Venice')",393.55259879120706
+"('Rome', 'Verona')",412.7785743963132
+"('Rome', 'Vicenza')",413.9343791601275
+"('Salerno', 'Sassari')",524.7220607230245
+"('Salerno', 'Syracuse')",403.28760515987165
+"('Salerno', 'Taranto')",210.29629148524697
+"('Salerno', 'Terni')",274.34606345221016
+"('Salerno', 'Trento')",668.7037050498311
+"('Salerno', 'Trieste')",558.0901310918064
+"('Salerno', 'Turin')",757.4048875254266
+"('Salerno', 'Venice')",563.8195412524432
+"('Salerno', 'Verona')",611.7523298170594
+"('Salerno', 'Vicenza')",601.3862549255155
+"('Sassari', 'Syracuse')",710.9365674683115
+"('Sassari', 'Taranto')",734.8605441262438
+"('Sassari', 'Terni')",397.230290641791
+"('Sassari', 'Trento')",629.4290275621943
+"('Sassari', 'Trieste')",691.1383397456246
+"('Sassari', 'Turin')",488.55099403844645
+"('Sassari', 'Venice')",605.5421695484681
+"('Sassari', 'Verona')",559.3440794664488
+"('Sassari', 'Vicenza')",587.6936161835733
+"('Syracuse', 'Taranto')",414.71429792635837
+"('Syracuse', 'Terni')",651.0649487694699
+"('Syracuse', 'Trento')",1059.0009062807123
+"('Syracuse', 'Trieste')",961.3026147642315
+"('Syracuse', 'Turin')",1094.4741099846917
+"('Syracuse', 'Venice')",960.8379600797589
+"('Syracuse', 'Verona')",996.581234753863
+"('Syracuse', 'Vicenza')",992.4545547576918
+"('Taranto', 'Terni')",447.8369967644171
+"('Taranto', 'Trento')",795.6187748679803
+"('Taranto', 'Trieste')",639.974521621504
+"('Taranto', 'Turin')",933.4353032748672
+"('Taranto', 'Venice')",680.085743308479
+"('Taranto', 'Verona')",750.3158578188395
+"('Taranto', 'Vicenza')",729.7721086846036
+"('Terni', 'Trento')",408.6522928518017
+"('Terni', 'Trieste')",353.77284952402056
+"('Terni', 'Turin')",487.30594973335184
+"('Terni', 'Venice')",318.8150113446294
+"('Terni', 'Verona')",345.54533594049053
+"('Terni', 'Vicenza')",342.8445304817747
+"('Trento', 'Trieste')",211.24267222483496
+"('Trento', 'Turin')",290.5463083698651
+"('Trento', 'Venice')",118.66673356379675
+"('Trento', 'Verona')",71.84918662721635
+"('Trento', 'Vicenza')",67.34765657910765
+"('Trieste', 'Turin')",481.1852054412791
+"('Trieste', 'Venice')",115.09339706818346
+"('Trieste', 'Verona')",218.3459483752784
+"('Trieste', 'Vicenza')",174.33263633359223
+"('Turin', 'Venice')",367.02207202260314
+"('Turin', 'Verona')",262.8429303569274
+"('Turin', 'Vicenza')",307.11879141096523
+"('Venice', 'Verona')",104.85692160281307
+"('Venice', 'Vicenza')",63.17924400530663
+"('Verona', 'Vicenza')",44.69517255475827
